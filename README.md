@@ -1,1 +1,1 @@
-criação do site com intuito de fazer um site pessoal e passar na av1 de desenvolvimento web
+criação de um site pessoal feito juntamente com conhecimentos aprendidos na materia de desenvolvimento web e conhecimentos aprendidos fora da salas de aula em estudos sozinhos.
